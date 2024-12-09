@@ -1,0 +1,3 @@
+package todayproject;
+
+@license(LGPL);
